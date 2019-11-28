@@ -13,7 +13,7 @@ namespace Footer
         public const string LargeOut = "Velikost patičky přesáhka 1024 znaků";
         public const string Duplicit = "Vlastost je duplicitní";
         public const string FileNotFound = "Soubor nenalezen";
-        public const string FooderNotExist = "Soubor patičku neobsahuje";
+        public const string FooterNotExist = "Soubor patičku neobsahuje";
 
     }
 }
