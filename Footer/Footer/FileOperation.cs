@@ -59,7 +59,7 @@ namespace Footer
                     }
                     else
                     {
-                        return OutputString.FooderNotExist;
+                        return OutputString.FooterNotExist;
                     }
                 }
 
